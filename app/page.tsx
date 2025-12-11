@@ -318,9 +318,8 @@ export default function Home() {
                 >
                   nikodem.zelenak.privat@gmail.com
                 </a>
-                {/* TODO: Replace with your actual Telegram username/link */}
                 <a
-                  href="https://t.me/yourhandle"
+                  href="https://t.me/digodem"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-slate-300 hover:text-purple-400 transition-colors duration-200 text-lg"
